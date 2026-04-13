@@ -65,6 +65,18 @@ This repo tries to do the opposite:
 - avoid forced slang or fake personality
 - use voice matching only when it actually helps
 
+## Before / after
+
+### Before
+
+> AI-assisted documentation serves as a crucial foundation for modern engineering workflows, enabling teams to streamline collaboration, enhance clarity, and ensure alignment across stakeholders.
+
+### After
+
+> AI can help teams write docs faster, especially for repetitive stuff. The problem is that the output often sounds polished without saying much. You still need someone to cut the filler and make the meaning clear.
+
+That is the point of this repo: less brochure language, less fake polish, more real signal.
+
 ## Technical-safe mode
 
 The technical flow is conservative by default.
