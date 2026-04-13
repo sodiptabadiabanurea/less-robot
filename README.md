@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/less-robot-hero.svg" alt="less-robot hero illustration" width="360" />
+  <img src="./assets/less-robot-hero-v2.svg" alt="less-robot hero illustration" width="420" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sodiptabadiabanurea/less-robot/releases/tag/v1.1.0">
-    <img src="https://img.shields.io/badge/release-v1.1.0-EA580C?style=for-the-badge" alt="Release v1.1.0" />
+    <img src="https://img.shields.io/badge/release-v1.1.0-EA580C?style=for-the-badge&labelColor=111827" alt="Release v1.1.0" />
   </a>
   <a href="https://x.com/sodiptabb23?s=21">
-    <img src="https://img.shields.io/badge/twitter-@sodiptabb23-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X profile @sodiptabb23" />
+    <img src="https://img.shields.io/badge/follow%20on%20X-@sodiptabb23-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=111827" alt="X profile @sodiptabb23" />
   </a>
   <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-2563EB?style=for-the-badge" alt="MIT License" />
+    <img src="https://img.shields.io/badge/license-MIT-2563EB?style=for-the-badge&labelColor=111827" alt="MIT License" />
   </a>
 </p>
 
@@ -22,6 +22,10 @@
 
 <p align="center">
   A small prompt pack and Hermes skill for cleaning up robotic prose, matching voice when it helps, and staying conservative with technical docs.
+</p>
+
+<p align="center">
+  Repo social preview asset: <code>assets/less-robot-social-preview.png</code>
 </p>
 
 ## What this repo includes
