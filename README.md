@@ -1,12 +1,26 @@
-# less-robot
+<p align="center">
+  <img src="./assets/less-robot-hero.svg" alt="less-robot hero illustration" width="360" />
+</p>
 
-A small prompt pack and Hermes skill for making AI-written text sound more natural without flattening the meaning.
+<p align="center">
+  <a href="https://github.com/sodiptabadiabanurea/less-robot/releases/tag/v1.1.0">
+    <img src="https://img.shields.io/badge/release-v1.1.0-EA580C?style=for-the-badge" alt="Release v1.1.0" />
+  </a>
+  <img src="https://img.shields.io/badge/twitter-coming%20soon-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter coming soon" />
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-2563EB?style=for-the-badge" alt="MIT License" />
+  </a>
+</p>
 
-The goal is simple:
-- remove obvious AI-writing tells
-- keep the original point intact
-- support voice matching when a writing sample exists
-- stay conservative for technical docs so precision does not get lost
+<h1 align="center">less-robot</h1>
+
+<p align="center">
+  <strong>Make AI writing sound human without losing meaning or technical precision.</strong>
+</p>
+
+<p align="center">
+  A small prompt pack and Hermes skill for cleaning up robotic prose, matching voice when it helps, and staying conservative with technical docs.
+</p>
 
 ## What this repo includes
 
@@ -88,7 +102,7 @@ It is designed to preserve:
 - modality words such as `must`, `should`, `may`, `required`, and `optional`
 - repeated technical terms that should stay consistent
 
-It still removes fluff, hype, and generic corporate padding. The point is to make technical writing cleaner, not “warmer” at the cost of accuracy.
+It still removes fluff, hype, and generic corporate padding. The point is to make technical writing cleaner, not warmer at the cost of accuracy.
 
 ## Suggested workflow
 

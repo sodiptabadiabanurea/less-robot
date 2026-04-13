@@ -1,0 +1,23 @@
+<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">less-robot hero illustration</title>
+  <desc id="desc">A dark-themed illustration of a masked editor mascot with a pencil and subtle spark accents.</desc>
+  <rect width="900" height="420" rx="28" fill="#111827"/>
+  <circle cx="450" cy="170" r="120" fill="#1F2937"/>
+  <circle cx="450" cy="170" r="92" fill="#374151"/>
+  <path d="M345 170C345 112 392 65 450 65C508 65 555 112 555 170V188C555 245 508 292 450 292C392 292 345 245 345 188V170Z" fill="#475569"/>
+  <path d="M315 192C315 111 372 50 450 50C528 50 585 111 585 192V210C585 251 565 289 533 314L484 353H416L367 314C335 289 315 251 315 210V192Z" fill="#334155"/>
+  <path d="M385 215C385 179 414 150 450 150C486 150 515 179 515 215V226C515 244 500 259 482 259H418C400 259 385 244 385 226V215Z" fill="#F8FAFC"/>
+  <path d="M404 196C413 185 428 178 450 178C472 178 487 185 496 196" stroke="#CBD5E1" stroke-width="8" stroke-linecap="round"/>
+  <path d="M423 221C428 215 434 212 442 212" stroke="#0F172A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M458 212C466 212 472 215 477 221" stroke="#0F172A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M402 286L450 330L498 286" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M520 95L611 162" stroke="#0F172A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M603 127L664 171" stroke="#F59E0B" stroke-width="22" stroke-linecap="round"/>
+  <path d="M654 165L706 204" stroke="#F8FAFC" stroke-width="18" stroke-linecap="round"/>
+  <path d="M682 186L719 214" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="662" cy="171" r="16" fill="#FBBF24"/>
+  <path d="M262 93L274 120L301 132L274 144L262 171L250 144L223 132L250 120L262 93Z" fill="#38BDF8" fill-opacity="0.9"/>
+  <path d="M663 75L670 90L685 97L670 104L663 119L656 104L641 97L656 90L663 75Z" fill="#F59E0B" fill-opacity="0.9"/>
+  <path d="M460 45L466 58L479 64L466 70L460 83L454 70L441 64L454 58L460 45Z" fill="#E2E8F0" fill-opacity="0.85"/>
+  <rect x="310" y="347" width="280" height="14" rx="7" fill="#0F172A" fill-opacity="0.4"/>
+</svg>
