@@ -6,7 +6,9 @@
   <a href="https://github.com/sodiptabadiabanurea/less-robot/releases/tag/v1.1.0">
     <img src="https://img.shields.io/badge/release-v1.1.0-EA580C?style=for-the-badge" alt="Release v1.1.0" />
   </a>
-  <img src="https://img.shields.io/badge/twitter-coming%20soon-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter coming soon" />
+  <a href="https://x.com/sodiptabb23?s=21">
+    <img src="https://img.shields.io/badge/twitter-@sodiptabb23-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X profile @sodiptabb23" />
+  </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-2563EB?style=for-the-badge" alt="MIT License" />
   </a>
