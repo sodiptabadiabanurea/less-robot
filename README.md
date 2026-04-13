@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/release-v1.1.0-EA580C?style=for-the-badge&labelColor=111827" alt="Release v1.1.0" />
   </a>
   <a href="https://x.com/sodiptabb23?s=21">
-    <img src="https://img.shields.io/badge/follow%20on%20X-@sodiptabb23-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=111827" alt="X profile @sodiptabb23" />
+    <img src="https://img.shields.io/badge/follow%20on%20X-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=111827" alt="Follow on X" />
   </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-2563EB?style=for-the-badge&labelColor=111827" alt="MIT License" />
